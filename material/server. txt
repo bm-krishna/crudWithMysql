@@ -1,0 +1,9 @@
+server: 
+
+    server is a software or piece of programm which accept and process the reqeust over the network made by client.
+    in node js to create server we have `http` or `https` moduels.
+
+    reffer 
+
+    https://nodejs.org/en/knowledge/HTTP/servers/how-to-create-a-HTTP-server/
+
